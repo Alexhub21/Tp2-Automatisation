@@ -16,7 +16,6 @@ def detecter_unites_usb():
     return lecteurs
 #print(detecter_unites_usb())
 
-
 def ecrire_log(message):
     date = datetime.now()
     timestamp = date.strftime("%Y-%m-%d %H:%M:%S")
