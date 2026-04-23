@@ -1,20 +1,76 @@
-[ 2026-04-22 01:35:02 ] Démarrage du programme de nettoyage de clé USB
-[ 2026-04-22 01:35:02 ] Vérification des lecteurs disponibles...
-[ 2026-04-22 01:44:20 ] Démarrage du programme de nettoyage de clé USB
-[ 2026-04-22 01:44:20 ] Vérification des lecteurs disponibles...
-[ 2026-04-22 01:46:10 ] Démarrage du programme de nettoyage de clé USB
-[ 2026-04-22 01:46:10 ] Vérification des lecteurs disponibles...
-[ 2026-04-22 01:57:06 ] Démarrage du programme de nettoyage de clé USB
-[ 2026-04-22 01:57:06 ] Vérification des lecteurs disponibles...
-[ 2026-04-22 01:59:48 ] Démarrage du programme de nettoyage de clé USB
-[ 2026-04-22 01:59:48 ] Vérification des lecteurs disponibles...
-[ 2026-04-22 02:00:14 ] Démarrage du programme de nettoyage de clé USB
-[ 2026-04-22 02:00:14 ] Vérification des lecteurs disponibles...
-[ 2026-04-22 10:36:04 ] Démarrage du programme de nettoyage de clé USB
-[ 2026-04-22 10:36:04 ] Vérification des lecteurs disponibles...
-[ 2026-04-22 10:42:17 ] Démarrage du programme de nettoyage de clé USB
-[ 2026-04-22 10:42:17 ] Vérification des lecteurs disponibles...
-[ 2026-04-22 10:43:28 ] Démarrage du programme de nettoyage de clé USB
-[ 2026-04-22 10:43:28 ] Vérification des lecteurs disponibles...
-[ 2026-04-22 10:43:34 ] Démarrage du programme de nettoyage de clé USB
-[ 2026-04-22 10:43:34 ] Vérification des lecteurs disponibles...
+[ 2026-04-22 14:56:12 ] Démarrage du programme de nettoyage de clé USB
+[ 2026-04-22 15:26:37 ] Démarrage du programme de nettoyage de clé USB
+[ 2026-04-22 15:32:58 ] Démarrage du programme de nettoyage de clé USB
+[ 2026-04-22 15:32:58 ] Démarrage du programme...
+[ 2026-04-22 15:32:58 ] Clé source détectée : C:\
+[ 2026-04-22 15:32:58 ] Copie du contenu de la clé source commnencée
+[ 2026-04-22 15:32:58 ] Erreur lors de la copie du contenu : [('C:\\$Recycle.Bin\\S-1-5-18', 'cache_usb\\$Recycle.Bin\\S-1-5-18', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-18'"), ('C:\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1001', 'cache_usb\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1001', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-21-751029990-7170182-1715280508-1001'"), ('C:\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1002', 'cache_usb\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1002', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-21-751029990-7170182-1715280508-1002'")]
+[ 2026-04-22 15:32:58 ] Copie du contenu de la clé source terminée
+[ 2026-04-22 15:33:34 ] Nouvelle clé cible détectée : D:\
+[ 2026-04-22 15:33:34 ] Début de la copie vers la clé cible : D:\
+[ 2026-04-22 15:33:35 ] Duplication vers la clé cible terminée : D:\
+[ 2026-04-22 15:34:10 ] Démarrage du programme de nettoyage de clé USB
+[ 2026-04-22 15:34:10 ] Démarrage du programme...
+[ 2026-04-22 15:34:10 ] Clé source détectée : C:\
+[ 2026-04-22 15:34:10 ] Copie du contenu de la clé source commnencée
+[ 2026-04-22 15:34:10 ] Erreur lors de la copie du contenu : [('C:\\$Recycle.Bin\\S-1-5-18', 'cache_usb\\$Recycle.Bin\\S-1-5-18', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-18'"), ('C:\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1001', 'cache_usb\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1001', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-21-751029990-7170182-1715280508-1001'"), ('C:\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1002', 'cache_usb\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1002', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-21-751029990-7170182-1715280508-1002'")]
+[ 2026-04-22 15:34:10 ] Copie du contenu de la clé source terminée
+[ 2026-04-22 15:36:14 ] Démarrage du programme...
+[ 2026-04-22 15:36:14 ] Clé source détectée : C:\
+[ 2026-04-22 15:36:14 ] Copie du contenu de la clé source commnencée
+[ 2026-04-22 15:36:14 ] Erreur lors de la copie du contenu : [('C:\\$Recycle.Bin\\S-1-5-18', 'cache_usb\\$Recycle.Bin\\S-1-5-18', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-18'"), ('C:\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1001', 'cache_usb\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1001', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-21-751029990-7170182-1715280508-1001'"), ('C:\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1002', 'cache_usb\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1002', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-21-751029990-7170182-1715280508-1002'")]
+[ 2026-04-22 15:36:14 ] Copie du contenu de la clé source terminée
+[ 2026-04-22 15:42:22 ] Démarrage du programme...
+[ 2026-04-22 15:42:22 ] Clé source détectée : C:\
+[ 2026-04-22 15:42:22 ] Copie du contenu de la clé source commnencée
+[ 2026-04-22 15:42:22 ] Erreur lors de la copie du contenu : [('C:\\$Recycle.Bin\\S-1-5-18', 'cache_usb\\$Recycle.Bin\\S-1-5-18', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-18'"), ('C:\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1001', 'cache_usb\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1001', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-21-751029990-7170182-1715280508-1001'"), ('C:\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1002', 'cache_usb\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1002', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-21-751029990-7170182-1715280508-1002'")]
+[ 2026-04-22 15:42:22 ] Copie du contenu de la clé source terminée
+[ 2026-04-22 15:53:47 ] Démarrage du programme...
+[ 2026-04-22 15:53:47 ] Clé source détectée : C:\
+[ 2026-04-22 15:53:47 ] Copie du contenu de la clé source commnencée
+[ 2026-04-22 15:53:47 ] Erreur lors de la copie du contenu : [('C:\\$Recycle.Bin\\S-1-5-18', 'cache_usb\\$Recycle.Bin\\S-1-5-18', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-18'"), ('C:\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1001', 'cache_usb\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1001', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-21-751029990-7170182-1715280508-1001'"), ('C:\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1002', 'cache_usb\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1002', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-21-751029990-7170182-1715280508-1002'")]
+[ 2026-04-22 15:53:47 ] Copie du contenu de la clé source terminée
+[ 2026-04-23 10:04:38 ] Démarrage du programme de nettoyage de clé USB
+[ 2026-04-23 10:04:38 ] Démarrage du programme...
+[ 2026-04-23 10:04:38 ] Clé source détectée : C:\
+[ 2026-04-23 10:04:38 ] Copie du contenu de la clé source commnencée
+[ 2026-04-23 10:04:39 ] Erreur lors de l'initialisation de la source : [('C:\\$Recycle.Bin\\S-1-5-18', 'cache_usb\\$Recycle.Bin\\S-1-5-18', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-18'"), ('C:\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1001', 'cache_usb\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1001', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-21-751029990-7170182-1715280508-1001'"), ('C:\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1002', 'cache_usb\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1002', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-21-751029990-7170182-1715280508-1002'")]
+[ 2026-04-23 10:04:47 ] Démarrage du programme de nettoyage de clé USB
+[ 2026-04-23 10:04:47 ] Démarrage du programme...
+[ 2026-04-23 10:04:47 ] Clé source détectée : C:\
+[ 2026-04-23 10:04:47 ] Copie du contenu de la clé source commnencée
+[ 2026-04-23 10:04:47 ] Erreur lors de l'initialisation de la source : [('C:\\$Recycle.Bin\\S-1-5-18', 'cache_usb\\$Recycle.Bin\\S-1-5-18', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-18'"), ('C:\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1001', 'cache_usb\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1001', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-21-751029990-7170182-1715280508-1001'"), ('C:\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1002', 'cache_usb\\$Recycle.Bin\\S-1-5-21-751029990-7170182-1715280508-1002', "[WinError 5] Accès refusé: 'C:\\\\$Recycle.Bin\\\\S-1-5-21-751029990-7170182-1715280508-1002'")]
+[ 2026-04-23 10:08:53 ] Démarrage du programme de nettoyage de clé USB
+[ 2026-04-23 10:08:53 ] Démarrage du programme...
+[ 2026-04-23 10:09:08 ] Clé source détectée : D:\
+[ 2026-04-23 10:09:08 ] Copie du contenu de la clé source commnencée
+[ 2026-04-23 10:09:08 ] Copie du contenu de la clé source terminée
+[ 2026-04-23 10:13:36 ] Démarrage du programme de nettoyage de clé USB
+[ 2026-04-23 10:13:36 ] Démarrage du programme...
+[ 2026-04-23 10:13:54 ] Clé source détectée : D:\
+[ 2026-04-23 10:13:54 ] Copie du contenu de la clé source commnencée
+[ 2026-04-23 10:13:54 ] Erreur lors de la copie du contenu : [WinError 5] Accès refusé: 'D:\\System Volume Information'
+[ 2026-04-23 10:13:54 ] Copie du contenu de la clé source terminée
+[ 2026-04-23 10:14:37 ] Démarrage du programme de nettoyage de clé USB
+[ 2026-04-23 10:14:37 ] Démarrage du programme...
+[ 2026-04-23 10:14:55 ] Clé source détectée : D:\
+[ 2026-04-23 10:14:55 ] Copie du contenu de la clé source commnencée
+[ 2026-04-23 10:14:55 ] Erreur lors de la copie du contenu : [WinError 5] Accès refusé: 'D:\\System Volume Information'
+[ 2026-04-23 10:14:55 ] Copie du contenu de la clé source terminée
+[ 2026-04-23 11:30:13 ] Démarrage du programme...
+[ 2026-04-23 11:30:52 ] Clé source détectée : D:\
+[ 2026-04-23 11:30:52 ] Copie du contenu de la clé source commnencée
+[ 2026-04-23 11:30:52 ] Dossier système ignoré : System Volume Information
+[ 2026-04-23 11:30:52 ] Copie du contenu de la clé source terminée
+[ 2026-04-23 11:56:39 ] Démarrage du programme...
+[ 2026-04-23 11:56:48 ] Clé source détectée : D:\
+[ 2026-04-23 11:56:48 ] Copie du contenu de la clé source commnencée
+[ 2026-04-23 11:56:48 ] Dossier système ignoré : System Volume Information
+[ 2026-04-23 11:56:48 ] Copie du contenu de la clé source terminée
+[ 2026-04-23 11:57:39 ] Clé source débranchée.
+[ 2026-04-23 12:23:52 ] Démarrage du programme...
+[ 2026-04-23 12:24:01 ] Clé source détectée : D:\
+[ 2026-04-23 12:24:01 ] Copie du contenu de la clé source commnencée
+[ 2026-04-23 12:24:01 ] Dossier système ignoré : System Volume Information
+[ 2026-04-23 12:24:01 ] Copie du contenu de la clé source terminée
+[ 2026-04-23 12:24:10 ] Clé source débranchée.
